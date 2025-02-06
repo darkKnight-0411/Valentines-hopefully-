@@ -10,10 +10,10 @@ const Apology = () => {
           </h2>
           <div className="prose prose-lg mx-auto text-gray-600 space-y-6">
             <p className="text-xl leading-relaxed">
-              I know my actions have hurt you, and for that, I am truly sorry. You deserve nothing but love, respect, and honesty. I promise to be better, to listen more, to understand deeper, and to love you the way you deserve to be loved.
+              I know my actions have hurt you, and for that, I am truly sorry. You deserve nothing but love, respect, and honesty, and I have failed to give that to you. I promise to be better, a person you can call a worthy boyfriend, to listen more, to understand deeper, and to love you the way you deserve to be loved.
             </p>
             <p className="text-xl leading-relaxed">
-              Your happiness means everything to me, and I will work every day to rebuild the trust between us. You are my world, and I never want to lose you.
+              Your happiness means everything to me, and I will work every day to rebuild the trust between us, because I want tothe live the rest of my life with you. You are my world, and I never want to lose you.
             </p>
             <div className="mt-8 p-6 bg-pink-50 rounded-lg shadow-inner">
               <p className="text-lg font-medium text-gray-700 italic">
